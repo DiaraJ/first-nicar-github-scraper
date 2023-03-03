@@ -1,4 +1,4 @@
-name: github_scrape
+name: Scrape
 
 on:
   schedule:
